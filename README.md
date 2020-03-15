@@ -1,2 +1,1 @@
-# Java-POO
-package banco;
+Projeto de estudos de Java Orientado a objetos
